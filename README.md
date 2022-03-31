@@ -1,5 +1,6 @@
 # vagrant-x11
 vagrantでGUIつかいたひ。
+GUI使わなくても、普通のVMのベースにしても便利。
 
 ## 説明
 https://tbistr.github.io/posts/tech/vagrant_x11/ に書いてある。
